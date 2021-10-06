@@ -1,0 +1,3 @@
+[submodule "sos-connect-backend"]
+	path = sos-connect-backend
+	url = git@github.com:bloomingseed/sos-connect-backend.git
